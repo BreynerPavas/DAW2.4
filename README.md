@@ -8,7 +8,7 @@ Para poder descargar nuestro repositorio deberas ejecutar este comando en tu con
 git clone https://github.com/BreynerPavas/DAW2.4.git
 ```
 ### Autor
-Esta pagina esta hecha por Breyner Pavas, desarrollador web con experiencia en diferentes empresas : 
+Esta pagina esta hecha por Breyner Pavas, desarrollador web con experiencia en diferentes empresas :<br>
 ![imagen de nuestro autor](./img/pruebaGato.jpg)
 ### Mas proyectos del autor
 puedes ver [mas proyectos](https://github.com/BreynerPavas/) de nuestro autor
