@@ -1,0 +1,15 @@
+*{box-sizing: border-box;}
+div{
+    margin: 2px;
+    padding-bottom: 2px;
+}
+.uno{
+    border-radius: 5px;
+    border: 2px solid blue;
+    background-color: lightblue;
+}
+.dos{
+    border-radius: 5px;
+    border:2px solid red;
+    background-color: lightcoral;
+}
