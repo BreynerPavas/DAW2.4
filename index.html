@@ -5,6 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style/style.css">
     <title>Document</title>
+    <script>
+        window.onload = () =>{
+            var elementos = document.getElementsByTagName("div");
+            for(var i=0;i<elementos.length;i++){
+                elementos[i].onmouseenter = function(){
+                    this.style.color = "white";
+                }
+                elementos[i].onmouseleave = function(){
+                    this.style.color = "black";
+                }
+            }
+        }
+    </script>
 </head>
 <body>
     <h1>Modulos de Desarrollo de aplicaciones WEB</h1>
